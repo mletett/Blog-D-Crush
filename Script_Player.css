@@ -1,10 +1,10 @@
 #player,#player a{color:#333;}
-#player{background:url(goo.gl/m7tybe);background-position:bottom;}
-#player .mainImage{background:url(goo.gl/sjuHjD);}
+#player{background:url(https://goo.gl/m7tybe);background-position:bottom;}
+#player .mainImage{background:url(https://goo.gl/sjuHjD);}
 #player #baseLeft{width:93px;}
 #player #baseRight{width:145px;}
 #player .button{width:22px;}
-#player #play{background:url(goo.gl/ufNgHL);}
+#player #play{background:url(https://goo.gl/ufNgHL);}
 #player #play,#player #pause{left:32px;}
 #player #previous{left:8px;}
 #player #next{left:55px;}
@@ -17,9 +17,9 @@
 #player #seekerBuffered{background-color:#CCC;}
 #player #seekerSliderBase{background-color:#666;}
 #player #volume{width:70px;right:33px;}
-#player #volumeSlider{width:11px;background:url(goo.gl/m7tybe);}
+#player #volumeSlider{width:11px;background:url(https://goo.gl/m7tybe);}
 #playlist,#playlist .module,#playlist h3{border-color:#666;color:#333;}
-#playlist h3{background:url(goo.gl/Yxnv1v);}
+#playlist h3{background:url(https://goo.gl/Yxnv1v);}
 #playlist .even{background-color:#FFF;}
 #playlist .odd{background-color:#EEF7FF;}
 #playlist .focus{background-color:#1188FF;color:#FFF;}
